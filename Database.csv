@@ -1,0 +1,151 @@
+,0
+0,"Protein: 20
+Sequence: HHPPHPPPHHPPPHHPPHPP
+Folds: [1, 2, 1, 1, -1, -2, -1, 2, -1, -2, 2, -1, 1, 2, -2, -2, -1, 2, 1]"
+1,"Protein: 20
+Sequence: HHHPHPPHPPHHHPHPHHPH
+Folds: [1, 2, 1, 2, 2, -2, 2, 1, 2, 1, -2, -1, -1, -1, 1, 1, -1, 1, -1]"
+2,"Protein: 20
+Sequence: HHHHHPPPHPPPHHHPHPPH
+Folds: [-2, -2, -2, -2, 1, 1, -2, 1, -2, 1, 2, 2, 1, 1, 2, -1, -1, -2, 1]"
+3,"Protein: 20
+Sequence: HHHHPPPHHHPHPPPPHPPP
+Folds: [-2, -1, -1, 1, -1, 1, -1, 1, 1, 2, -1, 2, -2, -2, 2, -1, 1, -2, 2]"
+4,"Protein: 20
+Sequence: HPHHPHHHHHPHPPPHPPPP
+Folds: [-2, 2, -2, -1, 2, 2, -1, 1, 2, 2, 1, 1, 1, 2, -2, -2, -2, -2, 2]"
+0,"Protein: 40
+Sequence: HPPHPPPHPHPHHHHHPPHHPHPPHPPPPHPHHPHPHHPH
+Folds: [-1, 1, 1, 1, -1, -2, -2, -1, 2, 1, -2, 1, -1, 2, 1, -1, 2, 2, 2, -1, -2, 2, -2, -2, -2, -2, 2, -1, 1, -2, -2, -2, -1, 1, 1, -1, 1, 1, -1]"
+1,"Protein: 40
+Sequence: HPHHHHHHHHPHHHHPHHHPHPHHPPHHPHHHHPHHPHHH
+Folds: [2, 1, 1, -1, 2, 2, -1, -2, -2, -2, -1, 1, -2, 2, -2, -1, -2, -2, -1, -2, -1, 2, 1, -1, -2, 1, 2, -1, -2, -1, 1, -2, 1, -1, -2, 1, -2, 1, -1]"
+2,"Protein: 40
+Sequence: PHPPHHPPPHPHPPPHHPPPPHPHHHPHHHHPHHPPPPPP
+Folds: [-2, -1, 2, -2, 2, -1, 2, -2, -2, -1, 1, -1, 2, -2, -2, 1, 1, -1, 1, -1, -2, 2, 1, -2, -2, 1, -2, -1, -1, 2, 1, -1, -1, -1, -2, -2, 2, -1, 2]"
+3,"Protein: 40
+Sequence: HPPHHHPPPHHHPHPPPHPPHPHHHPPPHPPPPPHPPPHH
+Folds: [2, 2, 2, 2, 1, 2, 2, -2, -1, 1, -2, -2, -1, 2, -2, -1, 1, -1, 2, -1, -1, -1, -1, 1, 1, -2, -1, -1, 2, -2, -2, -2, 2, 2, -1, -1, 1, 1, -2]"
+4,"Protein: 40
+Sequence: PPPPPHPHPPHHHPHHHPHHPPPHHPHHHHPHPHPPHHHP
+Folds: [1, -2, 2, -1, -1, 2, -2, -1, 2, 2, -2, 2, 2, 2, 1, -2, 2, 2, -1, 1, -2, -2, 1, 1, 1, 1, 1, -2, -1, -2, 1, -1, 2, 1, -1, -1, 1, 1, -1]"
+0,"Protein: 60
+Sequence: HHHPHHHHHHHHPHPHPHPHPHHPPHPPPHHHPHHPPPHPPHHPHHHPPPPHPPPPPHHH
+Folds: [-1, -2, -2, 2, -2, -1, 1, -1, 1, -2, -1, 1, -2, 2, 1, 1, 2, 1, 1, -2, -2, 1, 1, 1, 1, 1, -2, 1, 1, -1, 1, -2, 1, -1, 1, -1, -2, -1, -2, -2, -1, 2, 2, -2, -1, 1, -1, 1, 2, -2, -1, 2, -2, 2, -1, 2, -1, 2, -1]"
+1,"Protein: 60
+Sequence: HHHPPPHHHHHHPPHPHPHPPHPHPHHPPHPHHHHPHHHHHPHPPHPHPHPPPHHHPPPH
+Folds: [1, 1, -2, 2, -1, 2, 2, -2, -1, -1, -2, 2, -1, -1, 2, 2, -1, 1, 2, 2, 1, 2, -2, -1, 1, -1, -2, -2, 1, -1, -1, -2, -2, -1, -1, 1, 1, 2, 2, -2, -2, -1, -2, 1, 1, -1, -1, -1, 2, 2, 2, 1, 2, 1, -1, 2, 1, -2, -2]"
+2,"Protein: 60
+Sequence: HPHPHPHPHPPPPHHHHHPPHHPHPPPPHPHPPHPHHHPPHHPHPPHHPHHHHHHPPPHH
+Folds: [-1, -2, 2, -1, 1, -1, 1, -1, -1, -1, 2, -1, -2, -1, 1, 2, 2, 2, -1, -1, -1, -2, 2, 2, 2, 2, -2, -2, -2, -2, -2, 2, 2, -1, 1, -1, 1, 1, 2, 1, -1, -1, -1, 2, 1, -1, 1, -2, 2, 2, 1, 2, -2, -1, -2, -1, 1, 2, 1]"
+3,"Protein: 60
+Sequence: HPHHHHHPPHPHHPHHHHPPPHPHPHHPPPPHHHHPHHHHHPHPHPHHHHHHHPPPPPHP
+Folds: [2, 2, 1, -2, -1, 2, -1, -2, -1, 2, -2, -1, -2, -1, 2, 1, 1, 1, -1, -2, -2, -1, 1, 2, 2, 1, -2, 1, 2, -1, 1, 1, -1, 2, -2, 1, -1, -1, -2, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, 2, -2, 2, 2, -2, 1, 2, 1, -1, 1]"
+4,"Protein: 60
+Sequence: HHHHPPPPPPHPPHPHHHPPPHPHHPPHHHPHHPPHPHHPPPPPHHPHHPHHPPPPHPPP
+Folds: [1, -1, -1, 2, -2, 2, 1, -2, -2, -1, -1, -1, 2, -1, -1, 2, -2, -2, 2, -2, -1, -2, 1, -1, 1, -1, -1, 2, 1, 1, 2, -2, -2, -2, -1, -2, -2, 1, 2, -2, -1, -2, -1, -2, -2, -2, -2, 1, -2, 2, -1, -1, 2, -2, 1, -2, -1, 1, -2]"
+0,"Protein: 80
+Sequence: HHPHHHPPPPPHHPHHPPPHHPHPHHHPHPPHHHPPPPPHHPPHHHPHHPHPPPPPPHHHHPHPPHPPHPPHHPPPHHPH
+Folds: [1, -1, 2, 2, -1, 1, 2, -2, -2, -2, -1, 2, 2, -1, 1, 2, -1, -2, 1, 1, 1, 2, 2, -2, 1, 2, 1, 2, 2, 1, 1, 2, 1, -2, 2, 1, 2, -2, -2, -2, -2, 2, 1, -1, -2, 1, 1, -1, 1, -1, 1, 2, -2, -1, 1, -1, -1, 1, -2, 2, -2, -1, -2, -2, -2, 1, 1, 1, -2, -1, -2, -2, -2, -2, -2, 2, 1, -2, 1]"
+1,"Protein: 80
+Sequence: HPPPHPHPHPHPHPHPHHPPPHPPPPHPHHHPHPPHPHPHHPPHPPHHPPHHHHHHHHPPHHHPPPPHPPHPPPPPPPHH
+Folds: [2, 1, -2, -1, 2, 2, 1, 1, 2, 2, 1, -2, -1, 2, 1, -1, 1, 2, 2, -1, -2, -2, 1, -1, 1, 1, -1, 1, -1, -1, 1, 2, 1, -2, 1, -1, -1, 2, 1, 1, -1, 2, -1, 1, 1, -2, 2, 1, 2, -1, -1, 1, 1, -2, -2, -1, -1, -2, -1, -1, -2, -1, -1, -2, -2, -1, 1, -1, -2, -1, 2, 1, 2, 1, 1, 1, -2, -1, 1]"
+2,"Protein: 80
+Sequence: PPHPPHPPHHHHHPPHPPPHHHPPHHPHPHPHPPPPHHHPPHHHPHPHHHHHPPPPHPPHPPPPPHPPPHPPHHPPHPPP
+Folds: [-1, -2, -2, 2, 1, 1, 1, -1, 1, 1, 2, -2, -1, 2, -1, -1, -1, 1, -1, -1, 1, 2, -1, -2, 2, 1, 2, -1, -2, -2, -2, -2, -1, -1, -1, 2, 2, 2, -1, -2, 2, -1, -2, 2, 1, -1, -1, 2, 1, -1, 1, 2, 1, 1, -1, -1, -2, 2, 1, -1, 1, -2, -1, 1, 1, -1, 1, -1, -1, -1, 2, -1, 1, 2, -2, -1, -2, 2, -2]"
+3,"Protein: 80
+Sequence: PHHHHPPPPPPPPPHPPPHHPHHHHHPPHHPPPPPPHPPPPHPPPPPHHHPPHHPPPPPPPPPPPHHHHPPPPHHPHPPH
+Folds: [2, 2, -2, -1, -2, -1, -1, 1, -1, 1, 2, 1, 2, -2, 2, 1, 2, 1, 2, 2, -1, -2, 2, -1, -1, -2, 1, -1, 2, 1, -1, -1, 1, -1, -2, 1, -2, 1, -2, -1, -1, -2, -2, 2, 1, -1, 2, -2, -1, 2, -2, 2, -2, -1, -2, 1, -2, 2, 2, -1, -1, 2, 2, 2, 2, 2, -2, 1, 2, 2, -2, 2, -1, -2, -2, -1, -1, 1, 2]"
+4,"Protein: 80
+Sequence: PPPPPPPHHHHPPPPPHHHHHPPPPPHHPPPPHHHHHHHPPPHPHPPHHPPPPPHHHPPHPHHPHPHHHPPPHPHHPPPP
+Folds: [-1, -1, 2, 1, -1, 1, 1, -2, -2, 1, -2, -1, 2, 2, 1, -1, 1, 2, -2, -1, 2, -2, 1, -1, -2, 1, -1, 2, 1, 1, 2, -2, -1, 1, -2, -2, -2, -2, 2, 2, 2, 1, 1, 2, 2, -2, -1, 2, -2, -2, -1, -1, -2, -1, -1, 1, -2, -1, 2, -2, 2, -1, -2, -2, 1, 2, -2, -1, 2, 2, -2, -2, -1, -2, -2, -2, 2, -1, 2]"
+0,"Protein: 100
+Sequence: HPPHPHHHPPHPHHPPHHHPHHHHPPPPHHHPPHPPHHHPHHHHPHHPHHHHHHHPPHPHHHPHHPPHPHPPPHHPPHPPPPHPHPPPPPHHHHHHHHPP
+Folds: [2, 2, 1, -2, 1, 2, 1, 2, -1, 2, -1, 2, -1, -2, 2, -1, -2, -2, -2, 1, 2, 2, -1, -2, 2, -1, -2, 1, 2, 2, -1, 2, 1, -1, -1, -1, -2, -2, -1, 2, 2, -1, 2, -1, -1, 2, 1, 1, -2, -1, 2, -1, 2, -2, -1, -1, -1, 1, 1, -2, -2, 2, -1, 2, 2, 1, 2, -1, 1, 1, -2, -2, -1, -1, 2, 2, -2, 1, 2, -2, 1, -2, 2, 1, 2, -2, 2, 2, 2, -1, -2, 1, -2, 2, 1, 2, 1, -2, 1]"
+1,"Protein: 100
+Sequence: HHHPPHHPPHHHHPPPPPHPHHPPPPHHHPPPPPPPHPHHHPHPHHHHHPPPHHPHHHHPHPHHHHHHPHPHHHPHHHHPPPHHHHHPHHHHHHPPPPHH
+Folds: [-1, 2, -2, 1, 1, 1, -1, 1, 1, 1, 2, -1, 1, 1, -2, -2, 1, 1, 1, -2, 2, -1, 1, -2, -1, 2, 2, -2, 2, -1, -2, -1, -1, 1, -1, -1, 2, 2, -2, -2, -1, -1, 1, 1, 1, 1, -2, 1, 1, 2, 2, 2, 1, -2, -2, -2, -2, -2, 2, 2, -1, 1, 2, -1, 1, -1, 1, -1, 1, -2, -1, 2, 2, 1, -2, -2, -1, -1, 2, 2, 2, 1, -1, -2, -1, -1, 2, -1, -2, 1, 2, 2, 1, -1, -2, -2, -2, -2, 2]"
+2,"Protein: 100
+Sequence: PHHPHHHHPPPPPPHHPPPPHHHPHHHHHHPPPHHHPHPHHHHPPHHPHPHPHPPHHPHHPHHPHPPHHPHHPHPPPHPPPHHPHHPHPHPHHPPPPPHP
+Folds: [-1, -2, -1, 1, 1, -1, 1, 1, -2, -1, 1, 2, -1, -2, 1, -2, -2, -2, -2, 2, -1, 2, -1, -1, -2, 1, -1, -1, 2, 2, 1, 1, 2, -1, 1, -1, -2, 1, 2, -1, 1, -1, -2, -2, -1, -2, -1, 2, -1, -2, -2, 2, 1, -2, -1, -1, -1, -2, 2, 2, -1, -2, -1, 1, -2, -2, 1, -1, 2, -2, 1, 1, -2, 1, 1, 1, -1, 2, 1, 2, -1, -1, -2, 1, -1, -2, -1, -1, -2, -1, -1, -2, 1, -2, -1, -2, 1, -2, 2]"
+3,"Protein: 100
+Sequence: PHHHHPHHHPPPHPPPPPHPHHPHHHHPPPHHPHHPPPPPHPHPHHPHHPPPHPPHPPHHPHHPPPHHPHPHHHHHPHHHPHHHHPPHHPPHPHPHPPPH
+Folds: [-2, -1, 1, 1, 1, 2, -1, -2, -1, 1, -1, 2, 1, 1, 2, 2, -1, 1, 2, 1, -2, -2, 2, -2, -2, 2, 2, -2, 2, 2, -1, 1, -1, 1, -2, 2, -1, -2, 2, 2, -2, 1, 2, 2, -2, -1, 2, 2, 2, 1, -1, 1, 1, -1, 2, 2, -1, -1, -2, -2, -1, 2, 1, -1, -2, -2, -1, -1, 2, 1, -2, 2, 2, 2, 2, -1, -2, -2, -1, -1, -2, -2, -1, -1, 1, -1, 1, 2, 1, -2, 1, 1, 1, 1, 2, 1, 2, 1, 2]"
+4,"Protein: 100
+Sequence: PPPPPHPHHHHHPHPPHHHPHHHPPHHHHHHPPHPPPPHPPHPPPHHHHPHHPPPHHHPPPPPHHHHHHPPHPHPPPHHPHHPPPHHPPHPPPPHPHPHH
+Folds: [-1, -2, -1, 2, 2, 2, 1, 2, 2, -2, 2, -2, 2, 1, 2, 1, 2, 1, 1, 2, -2, -1, 2, 1, -2, -1, -1, 2, 2, -2, 1, -2, 1, -2, -1, 1, 2, -2, -1, 1, -1, -1, -2, 1, -2, -2, -1, -2, 2, -1, 1, -2, -2, 1, 2, -2, -2, 2, -2, -1, 1, 1, -1, 2, 2, -1, 2, -2, -2, 2, -2, 1, 2, -1, 1, -2, 2, 2, 1, -2, -2, -2, 2, 2, -2, -2, -1, -2, 2, -2, 2, 1, 1, 1, 1, 2, 1, -2, 2]"
+0,"Protein: 120
+Sequence: HPPHHHPHPPPHPPPPPHPHHHHHPHPHPHPHHHPPPPHPPPPHHPPPPPHPPPHHHHHHHPPHHHPHPPHPPHHHPHHPHPHHHHPPHHHHPHHHHPHHPHPPPPHPHHHHPPPHPPHH
+Folds: [-1, -2, -1, 1, 1, -1, 2, -1, -2, -1, 1, 1, -1, -1, -1, -2, -2, 1, -1, 2, -1, 1, -2, 2, -2, -2, 2, 2, -1, -1, 1, 2, 1, 2, 2, -1, -1, 1, 2, -1, 1, -1, 2, -2, -1, -2, -1, -1, 2, -1, 1, -1, 1, 2, -2, 1, -1, 2, -1, -1, -2, 2, -1, 1, -1, 1, -1, -1, -2, -2, -2, 1, -1, -1, -2, 1, -2, 1, -2, 2, 2, -1, -2, 2, -2, 2, 1, 1, 1, -2, -1, -2, -1, -1, 1, 1, -2, -1, -1, -2, -2, 2, -2, -2, 1, 1, -2, 2, -1, -2, 1, -1, 1, 2, 2, 2, 2, 1, 2]"
+1,"Protein: 120
+Sequence: PPHHPPHPHHPPHPPHHPPHPPPPHHPPHPPPHPHPPPPHHPHHHPHPPPPHPHHHPHPPPPHHPPHHPHHPHHPHHPHHHHHPHPHHPHHHPHHPPHHPHHHHHHPPPHHHHPPPHPPH
+Folds: [1, 2, 2, -2, 2, -2, 1, -2, -1, -1, 2, 2, -1, 1, 1, -1, 1, 2, 1, 2, 2, -1, 1, -2, 1, -1, -2, -2, 1, 1, 2, -2, -2, 1, -1, -1, 1, -2, -1, -2, -2, -1, -1, -2, -1, -1, -1, -1, -1, -1, 2, -1, -1, -2, -1, -1, -2, 1, -1, 2, 2, -1, -1, 1, -2, 1, -1, 1, -2, 1, 1, -1, 1, -2, 2, 1, 1, 1, -2, 2, 2, 1, 2, 1, -2, 1, 2, 1, -1, 1, 2, -2, -1, 1, -2, 1, 1, -1, -1, 2, 1, -2, 2, 2, -2, -2, -1, 1, -2, -1, -1, 1, 1, 2, -1, -1, 2, 2, -2]"
+2,"Protein: 120
+Sequence: HHHHHPHHPPHPPPPPPHHPPPHPPPHPHPPHPHPPPPPHPPHPHPPPHPHHHPHHHPHHPHPPHPPPHHPHHHPPPPPPPHPHHPPHHHHHPPHPHPPHPPHHPHHPHPPHPPPPHHHH
+Folds: [2, 1, 2, -2, -2, 1, 2, 1, -2, 2, 2, -1, 2, -2, -1, -2, 2, -1, -2, -2, -1, -2, 2, -2, 1, 2, 1, 2, 1, -1, -2, 2, 1, -1, -1, -2, 1, 2, 2, -2, -2, 2, 1, -2, 1, 2, 1, 1, -1, -1, 2, -2, 2, -2, 2, -1, 1, -2, -1, -1, 1, -1, 1, 1, -2, -2, -2, 1, 2, 1, 1, 1, 2, 1, -1, 2, -2, -1, 1, -1, 1, -1, -2, 1, -2, 1, 1, -1, -2, -1, 1, 1, 2, -2, 1, 2, -1, -1, -2, -1, 1, 2, -1, 1, 2, -2, -2, 1, -2, 2, 2, 2, -2, -1, -2, 2, -1, 2, 1]"
+3,"Protein: 120
+Sequence: PHPHPPHHHPHPPPPHPHHHPPHPHPHHPHHPHPPHPPPPHHHHPPPHHPHHHPPHHHPHHPHPPHHPPPHPHPHHHHPPHHPPHPPHPPPHHPHPHPPHHHPHHHHPHPPHHPPPHHPP
+Folds: [2, -1, 2, -2, -2, 1, -2, 1, -2, -2, 1, 2, 2, 1, 1, -1, -1, -2, -2, -1, 1, -1, -1, 2, -2, 1, -1, -1, -2, 1, 2, 1, -1, -2, -2, 2, -2, -2, 1, 1, 2, 1, 1, 2, 1, 2, -2, 1, -1, -1, -2, -1, -2, -2, 1, -2, 2, 1, 1, -2, 2, -1, 2, 2, 1, -1, -2, -1, -2, 2, 1, -2, -1, 1, -2, -1, -1, 1, 1, -2, -1, 2, -1, 2, 2, -1, 2, -1, 2, 1, 1, 2, 1, -1, -2, 1, -2, 1, 1, 1, 2, -1, -2, -1, 2, 1, 2, 1, 2, -2, 2, -1, 2, 2, 1, 1, -1, -2, -2]"
+4,"Protein: 120
+Sequence: PPPHHPPHPPPPHPHHPPHPPPPPPHHHPPHHHHHPHPPHHPHHHHHHHHPHPHHPPHHPHPPPHHHPHHHHHPHPHPHPPHPHPHHHPHHPPPPHHHPPPHHPPPPHPHPHPPPPPHHH
+Folds: [-1, -2, -2, 2, -2, 1, -2, 1, -1, -1, 2, 2, 1, -2, -1, -1, -1, 2, 1, -1, -1, 1, -2, 2, -1, -1, 1, 1, 1, -1, 1, -2, 2, -1, -1, 2, 1, -1, -2, -2, -2, -1, 1, -2, 1, -2, -1, 2, 2, 1, -1, 2, -2, -2, -2, -2, 1, 1, -2, 1, 2, -2, -1, -2, 1, -1, -2, 1, -2, -1, 1, -2, 1, -2, 1, 1, -2, -2, 1, 1, -2, -2, -1, 1, -2, 1, 1, -1, 1, -2, 1, -1, -1, 2, 1, -1, 1, -2, 1, 2, -1, -1, 2, -1, -2, 1, 2, -1, -2, -2, 1, -2, -2, -2, 2, 2, -1, 1, -1]"
+0,"Protein: 140
+Sequence: HHHHPPPHPPHPHHPPHHPPHPHHPHHPPPPPPPHHHHPHPHHPPHHHHPPPHPPPPPHPHPPPHPPPPHHPPPHPHHHPHHPPPPHHHHHPHPPHPPHHPHPHPHPHHPHHHPPPPPPHHHPHHHHHPHHPHHHHHHHP
+Folds: [-1, 2, 2, -1, 1, 2, -2, -2, -1, 1, -1, 1, 2, 2, 1, -1, 1, 2, 1, 2, 2, 1, -1, -1, -2, -2, 2, -2, -1, 1, -2, 1, 2, 1, 1, 1, -2, -1, -1, -2, 2, 2, 1, 1, 1, 2, -1, 2, -2, 2, -2, 1, -2, -1, -2, 2, 1, 1, -1, 1, -1, 1, 2, 1, -2, -2, 1, -2, -1, 1, -2, -1, -1, -2, -1, -1, 2, 1, 1, -2, 1, 2, -2, -1, 1, -1, -1, 2, -2, -1, 1, 1, -1, -2, -2, 1, 1, 2, -1, -2, -2, 1, -2, -1, -2, -2, 2, 1, -2, 1, 1, -2, 1, -1, 2, 1, -2, -1, 1, 1, -1, -1, 1, 1, 2, 1, 2, -1, 2, 1, -1, 1, 1, 2, -2, 2, 2, 1, 1]"
+1,"Protein: 140
+Sequence: PHHPPHHPHPHPHHPPHHPHHPHHHHHPPPHPHPPPPHPPHPPPPPHHPPPPPPHPPPPHPHHHHPHPPPHHPHPHHPPPHHHHHHHPHPHHHHPPHPPHHPHPHPPPPPHPHHPPHHHPHHPHHPHPPPHHPHPPHHHP
+Folds: [1, 2, -2, 1, 2, -1, 2, 1, -1, -1, 2, 2, 1, -1, 1, -2, -1, -2, -1, -2, -2, -2, -2, -1, -1, 2, 2, -2, -1, 2, 2, -2, 2, -2, -2, -2, 1, 1, 1, -2, -1, 1, 2, 2, 1, -1, 2, 2, 2, 1, -1, -1, 1, 1, 2, 1, 2, 1, -2, -2, -1, -2, 1, 2, 2, -2, -2, 2, 2, 1, -1, 1, 1, -1, -1, -1, -1, 2, 2, -1, -1, 2, -2, 1, 2, 2, -1, 2, 2, 2, 2, 2, 2, -1, 1, -2, 1, 2, -2, 1, -1, -2, 1, 1, -2, -2, -2, 2, -2, 2, -2, 2, -2, 1, -2, 1, 1, 1, 1, -1, -1, 1, -2, 2, -1, -2, -2, 2, 1, 1, 2, -1, -1, 2, -2, -2, 1, 1, -2]"
+2,"Protein: 140
+Sequence: HHPPPPPPHHPPPHPPHHPPHPHPHPPHHPPHHHHPHHHHPHHHPHHHHPPPPPHHPPPHPPHHHPHPHPHPPPPPHHPHPHPPHHHHPHHPHPPHHHHPHHHHHPHHHPPPHPPPHPHHPPHHHHPHHPHHHPPHHHPH
+Folds: [-2, -1, -1, 2, 2, 1, 2, 2, -1, -1, 1, 1, 2, 1, -1, -2, -2, -1, -1, -1, 2, -2, -2, 2, -2, 1, 1, 1, -1, -2, -1, -1, 1, 2, 2, 2, -1, 2, -1, -1, -1, 2, 2, -2, -1, -1, 2, -1, -1, -1, 1, -1, 2, -1, -2, 2, -2, 1, -1, 1, 2, 2, 1, 2, -2, 2, -1, 1, -2, 1, -2, 2, -1, 1, -1, 1, -1, -1, 1, 2, -2, 1, -1, 1, 2, 2, -2, -1, -1, -1, 1, -2, -1, -1, 2, -1, -1, -1, -1, 2, -2, 1, -2, 1, -1, -1, -2, -2, -1, 2, -1, -1, 2, 1, 2, 1, 2, 2, -2, 2, 2, -2, -1, 2, -1, -2, 2, 2, 2, 2, -1, -1, 1, -1, 2, 1, 2, 2, 1]"
+3,"Protein: 140
+Sequence: PHPPHPHHHHPPPHHHHHHPPPPHHPHPHHPPPHHHHHHHHPHHPPPPPHHHPHPHHPHPPPHHPHHPHHHPPHHPHPHPPHHHHPHPHPPPPHPHHPHPPPPPHHHPHPHPHHPHHPPPHPHPPHPHHPPHHPPHPPHP
+Folds: [1, -1, -1, 2, -2, -2, -2, -2, 2, -2, -1, 2, 2, 2, -2, -2, -2, 1, 1, 1, -1, 2, -1, 2, 2, 2, -1, -1, 2, 1, -1, 1, -1, -1, 1, 2, -2, -2, -2, 2, 2, 2, 1, -1, 1, -2, 2, 1, 2, 2, -2, -2, -1, 1, 2, -2, -2, -1, 1, -1, -1, -1, 2, -1, -1, 2, 1, -1, -2, -1, -1, -2, -1, 1, -2, -2, -2, 1, -1, 1, 1, 1, 2, 2, 2, -2, -2, -2, 1, 1, -1, 1, -1, 1, 2, 1, -2, 1, -2, 2, -1, 2, 1, 1, 2, 1, 2, -1, -1, -1, -1, 2, 1, -1, 1, 1, -1, -1, 1, -2, 2, 1, 2, 2, -1, 2, 1, -2, 2, -2, -1, -1, -1, -2, -2, 2, -2, 2, -1]"
+4,"Protein: 140
+Sequence: HHPHPHHHPPHHHPPPPHPPPHPPPPPPPPPHPPHPPPPHPPPPHPPHHHPPHPHHHHHHHPHHHPPPHHPHHHPHHPHPHHPHHHHHHPPPPHHHPHHHHHHHHPHHPPHHPHHPPHPPPPHHHPPHHPHPPPHHHHPP
+Folds: [1, -2, 1, -2, 2, -1, 2, 1, 2, -1, 2, 2, -2, 2, -1, 1, 2, 1, 1, -1, -1, 2, 2, 1, 1, -1, 1, -1, 1, -2, 1, -2, -2, 1, -1, -1, -1, 2, 2, 1, -1, 2, 1, -2, 2, 1, -2, -1, -1, -2, -1, 2, 2, 2, -1, -1, 2, -2, -2, 1, -2, -2, -2, -1, 2, 2, -1, -2, -2, -1, 1, -1, 1, 2, -1, -1, -2, -2, -2, -1, -1, 1, -2, -1, 2, 2, 2, -1, -1, -1, 1, -1, -2, -1, 1, 1, 2, -2, 1, -1, 2, 2, 2, 1, 2, -2, -2, 1, -1, -1, -1, 1, 2, -1, 2, -2, 2, 2, 1, -2, 1, -1, -2, 1, -2, -2, 1, 2, -2, 1, -2, -1, -1, 2, 1, 2, -1, 1, -1]"
+0,"Protein: 160
+Sequence: PHHPHHHPHHPPHPHPPHPPHPHPPPHPHHPPHPPHHHHPHPPPPPHHPHHHPPHHHPPHHPHPHPHPHPPHPHPPHHHHHPHPPPPHPPHHPHHHPHHPPPHHHHHPPPPPPHHHHHHPPHPHPPPHHPPHPPHPPPHHPHPPPPHHHHPHHHHPPHHP
+Folds: [1, 2, 2, 2, -1, 1, -1, 2, 2, -2, -2, 1, 2, -1, -1, -2, 1, 2, 1, 1, 1, -2, 1, 2, -1, 1, 2, -2, 2, 2, 1, 1, -2, -2, 2, -2, 1, -2, 2, 2, 1, -1, 1, 2, -2, -2, -1, -2, -2, 2, 2, 1, 1, 1, -1, -2, -2, -2, 1, 2, 2, 1, -2, -1, -2, -1, -2, -2, 1, -2, 2, 2, -1, 1, 2, 2, -2, -2, -1, -1, -1, 2, 1, 2, -1, 1, 1, 1, -1, 2, -1, 1, 2, 2, -1, 1, -1, 1, 2, 2, 2, -1, -2, 1, -1, 2, -2, -1, 2, -2, 2, 1, -2, 2, 2, -2, -1, 2, 2, 2, 2, -1, 2, 1, 1, -2, -2, 2, 1, -1, 2, -2, -1, 2, 2, -1, 1, 2, 2, 2, -2, 2, -2, 1, 1, 1, 1, 2, 1, -2, -1, -2, 2, -1, -2, -1, 2, -2, -1]"
+1,"Protein: 160
+Sequence: HPHHPHPPHHPPHHPHPPPHHHHPPHHPPPHHHPHHHHHHHHHPHPPHPHPPHHHPPHHHPPPPPPPPHHPHPPHHHHPPPPPHHHHHPPHPHPHHPPHHHHHHHPPPPHHHHHPPHPHPHPHPHHPHPPHHPPHPHPPHHPHHHHPPHPHPHPPHPPPH
+Folds: [-2, -1, 2, -1, 2, -2, 2, 2, 2, -1, 2, -2, 1, -1, -1, -2, 2, 1, 2, 2, 1, 1, 2, -2, -1, -2, -1, 2, 1, -2, -2, -2, 2, -2, 1, 2, 2, -2, -2, 1, 1, 2, 2, -1, -1, 1, -1, 1, -1, -1, 2, 1, 1, -2, -1, 1, 2, 1, -2, -1, -2, -2, 2, -2, -2, 2, -1, 1, -1, 2, -2, 2, 2, -2, -1, 2, 1, -1, 1, -2, -1, -1, -1, 1, -2, -2, -2, -1, -1, -2, 2, -2, 2, -1, -1, -1, 2, -1, 2, -2, 1, -1, 2, -1, -1, -1, -2, -1, -1, 2, 2, -1, 2, -2, -2, -1, 2, -2, -2, -1, -1, -2, 1, 2, 2, 1, 2, -1, -1, 1, -1, -2, -1, -2, -1, -2, 2, 1, -2, 2, 1, -1, 2, 1, -2, 1, 1, 2, -1, 2, -1, -2, -1, 2, -1, -2, 1, -1, -1]"
+2,"Protein: 160
+Sequence: HHHPPPPHPPHHPHHPPHHHHHPPHHPHPPPHHHHHPPHPHHHPPHHHPHPHHPPPHHHPPPHHHPPHPPPPPPPHPPHPHPHPPPHPPPHHPPPPHHPPHHPHPPHPHHHPPHHPPHHPPPPPHPPPHPPPPPHHHPHHPHPPHHPPHHPHHHPHHHPP
+Folds: [-2, 1, -2, -2, -1, 1, -1, -2, 1, -2, -1, 2, 2, -2, 1, 1, -1, 2, 1, 1, -1, -2, -2, -2, 2, -2, 2, 2, 1, 2, 2, 1, -1, -1, -1, -1, 1, -2, -1, -2, 1, 1, 1, -2, 2, 2, 2, -1, 1, 2, 2, -2, 2, -2, -1, -2, 2, -2, 1, 2, -2, -2, -2, -1, 1, 1, -1, 1, 2, 1, 2, 2, 1, -2, 2, -1, -1, -1, 2, 2, -2, 2, 1, -2, 1, 1, -1, 1, -1, -2, -1, -1, -1, -2, 2, 1, -2, -2, -1, -1, -2, -2, -1, -1, 2, 2, -1, 1, -2, 1, 1, 2, -2, 2, -2, 2, -2, -1, 2, -2, 2, -1, 2, -1, -2, -1, 1, -1, 2, 1, 2, -1, 1, 1, 1, 1, 1, 1, 1, 2, -1, 2, -1, -1, -1, 2, -2, -1, -1, 2, 1, -2, -2, -1, -1, 2, 1, -1, -2]"
+3,"Protein: 160
+Sequence: HHPPHPHPPPPPHPHHHPPPPPPPHPHHPPHPPPPHHHHPPHHPPPPHPHPPPPPPHHHHPHPHPHPPHPPPPHPPHHHHPHHPHHHHPHPPPHPHHHPHPPPHPPPHPHHPHPHHHPPPHHPPHHPPPHPHPHHHHPHPHPHPPHPPPHPPPPHPPPHP
+Folds: [1, -1, 2, -1, -2, -1, -2, 2, -1, -1, -2, -1, 1, -1, 1, -1, -1, -1, -1, -1, -2, 2, 2, -2, 2, -2, -2, 2, 1, 1, 2, 2, 2, -1, 2, -1, -2, 2, 2, 2, 2, -1, 1, 2, -2, -1, 2, -1, -1, -1, 1, 1, -2, -2, 2, 2, 2, -1, 1, -2, -2, 2, -2, -2, -2, 2, -2, -2, 2, -2, -1, 1, -2, -1, -1, 2, -2, -2, -1, 2, 2, -1, -2, 2, 1, 2, 1, 2, -1, -2, -2, 1, -1, -2, -2, -2, -2, 1, 1, -2, 2, 2, 1, -1, 2, -1, -1, -1, 2, 1, 1, 1, -1, 2, 1, -1, -1, 1, 1, -1, -1, -1, 2, -2, -1, -2, -1, 1, 2, 2, -2, -2, 2, -1, 1, 2, -2, -2, 1, -1, 1, -1, 1, 2, 2, 2, -1, 2, 2, -2, -1, 1, -1, 2, -2, 1, 1, 1, -2]"
+4,"Protein: 160
+Sequence: HHPHPPHPPHPHHPHHPHPHPHPHPHPHPPPHHHHPHHPPPHPHHHPPPHHPPHHPHPHHPHHPHHHHHPHHPHPPHPHHHPHPHHHPPPHHPHPPPPPHHHPPPHHPHPHPPHHHPHPPHPPPHHPPPPHPPHPHHHPHHHPPPHHPHHHPPHPPHPHP
+Folds: [-1, -1, -1, -1, 1, -2, 2, -1, -1, -2, -2, 2, 1, 1, 1, 1, -1, -1, 1, 1, -2, 1, 2, 1, -1, -2, 2, -2, 1, 1, -1, -1, 2, -1, -1, -2, 2, 2, 2, -1, 2, 2, 1, 1, -2, -2, 1, -2, -1, 2, 1, 1, -1, 2, -2, -2, 1, 2, 1, -1, -1, 2, 1, 2, -2, 1, -1, 1, 2, 1, 1, 1, 2, 2, 1, -1, -2, 2, 2, -2, -2, 2, 1, 2, -2, 2, -1, -2, -2, 1, 1, -1, 2, 2, -2, 2, -2, -1, -2, 1, 1, 2, 1, -2, -1, 1, 1, 2, 2, 2, -1, 1, 1, -1, 2, -2, 2, 2, -2, -2, 2, 1, 2, -1, -1, -1, 2, -1, 2, -1, -1, 2, -1, -2, -2, -1, 1, -1, -1, -2, -2, 2, -2, 1, -1, -2, 2, -2, -2, 1, -1, -1, 2, 2, -2, -1, 2, 1, 1]"
+0,"Protein: 180
+Sequence: HHPPHPHHHHPHHPHPPHPPHPHHPHHHHPPPPHPPHHPHHPHPHPHHHPHHHPHHPPHPHPHHPPHHHPHPHPHHPPHHHPPHHHPHHHHHPPHPHPPPHHPPHPPPPHHPHHHPHHPPPPPHHPHPHPPHPPPPPHPHPPHHHHPHPHPPHPHHHPPPHHPHHPHHPHPPHHHPPPHP
+Folds: [1, -2, -1, -1, 2, 2, -2, 2, -1, 1, 1, -2, -2, 1, -1, 1, 2, -1, -1, 2, -1, -1, 1, 2, 1, -1, 1, -1, -1, -2, -1, 2, -2, 2, 2, 2, -2, -2, 1, -1, -1, -2, 2, 1, 1, -1, -1, -2, 1, 1, -2, 1, 1, -2, 1, 2, 1, 1, 2, 2, 1, 1, -2, -2, 1, -1, -1, -2, 1, -1, -1, -1, -1, 2, -1, -2, -1, -1, 2, 1, 2, 2, -2, 2, 1, -1, 2, 1, -2, 1, -2, 2, -1, 1, 1, -1, 2, 1, 1, -1, 2, -2, 1, 2, 2, 1, 2, 1, 2, 2, -1, -2, 2, -1, 1, -2, 2, -1, -1, -1, 1, -1, 1, 2, -2, -1, 2, -1, 1, 1, -2, -2, -2, -2, -1, -2, -1, 1, 1, 1, -1, 2, -1, -1, -1, 2, -1, 2, 1, -1, -2, 2, -1, -2, -2, -2, -2, -2, -2, -1, 2, -2, 2, 1, -2, -1, -1, -2, -1, -2, -2, 1, 1, 2, 1, 2, 1, 1, 1]"
+1,"Protein: 180
+Sequence: PPPPPHPHHPPPHPHPPHPHPHPHHPPPPPHHHPPHHHPHPPHHHPHPPHPPHPPHHPPHHHPPPPHHHPHPHHHHPPHPHHHHPPPPPHPHHPHPHPHHHHPHHHPPPPHHPPHHHHPPPPHPPPHHHHPPPPPHHHPHHPHHPHHHHHPPPHPPPPHPHHPHHHHHPPPPHHHHHPPH
+Folds: [-1, -1, -2, -2, -1, -2, -2, -2, 1, -1, 1, -1, 1, -2, -2, 1, -2, -2, 1, 2, 1, -2, -1, -1, 1, -2, 2, -1, 1, -2, 1, -2, -2, -2, -1, 2, 2, 2, -2, 1, -2, -1, -2, -2, -2, 1, 1, -2, -1, -1, -1, 2, -2, -1, 1, -1, 1, 1, 1, -1, -2, 2, 2, 2, -2, -2, 2, -1, 2, -1, -1, 2, -2, -1, -1, 1, 2, -1, -2, 1, 1, 2, 1, -2, 2, -2, 1, 1, -2, -2, 2, 2, -2, 1, 2, 1, -2, 1, 2, -1, -1, 2, -1, 2, 1, -2, 2, 1, 1, -2, -2, -2, 2, 1, -1, -2, 1, -2, -2, -2, 1, 1, 2, -1, 1, 1, -2, -1, -2, -2, -2, -1, 2, -2, -2, 2, 2, -2, -1, -2, 2, -1, 1, -1, -2, -2, 2, -2, 2, -2, 1, -2, -2, 1, 2, -1, 2, 1, 1, -2, 1, -1, -1, 2, 1, 2, -1, -1, -2, -1, -2, -2, 1, 2, 2, 2, -2, 1, 2]"
+2,"Protein: 180
+Sequence: PHHHPPPPHPPPPPPHHHHHHHPPHPHPHHPHHHHPHPHHHHPPPPPPHHHHHHPHPPHPHPPHHPHPPHHPHPPPHHPPPHHPPPPPPPHPHHHPPHPPPPHHPPPHPHPHHPHPHPPPPHHPHHHHPHPPPPHHHPPPPPHPPPPPPHHHHPHPPPPPHPPPHPPHHPHPHPPPPHHP
+Folds: [-1, -2, 1, 2, 2, -2, 2, 1, -2, 1, 2, 1, -2, -1, 2, 2, 1, -1, 1, 1, 1, 1, 2, 1, -2, -2, 1, 1, -1, -1, 2, -1, 1, -2, -1, 1, -1, -2, -1, 2, -1, 1, -1, 2, -2, 1, 1, 1, -2, -1, 1, 1, -1, -1, -1, -1, -1, -2, 1, -2, -1, -1, 1, 1, 2, 1, -2, 1, -1, -2, -1, -1, -2, -2, -2, -1, 1, -2, 2, -1, -2, -2, 1, -1, 2, 1, 2, -2, -1, 2, 2, -2, 1, 2, -1, -1, -1, -2, 1, -2, -1, 2, 2, 2, -2, 2, 1, -2, 2, 1, 1, -1, 2, -2, -1, 2, 1, 1, 2, -1, -2, 1, -2, -2, 1, 2, -2, 2, -1, -1, -1, 1, 2, -1, -2, -2, -2, -2, -2, 2, -1, -1, 1, 2, -1, 1, -2, -1, -2, 1, -2, 1, 2, 2, -1, -2, 1, 2, 2, -1, -2, 1, 2, 1, -2, 2, -1, 1, -2, 2, -2, 1, -2, -2, 2, 1, 1, 2, 2]"
+3,"Protein: 180
+Sequence: HHHHHPPHHPHPHHHPHPPPPHPHHHPPHPPHHHPPHPPHPHPPHHHPPHHPPPPPHHPHPHPHPPPHPPPHPHPHPPPHPPHHHPHHPHPHHPHHHPPHHPHPPPHHPPHPHPHPPHHHPPPPHHHPHHPHPHHHPPPHHHPHPPPHHPHPPPHPHHPHHPPHHPPHHHPPPPHHPPPP
+Folds: [2, 2, 1, 2, 2, -2, -2, 1, -1, -2, -1, 2, 2, -2, -1, -2, 1, 2, 2, -1, 2, -2, 1, 2, 1, -1, 2, -2, -1, 2, -2, 1, -2, 2, -2, -1, 2, 1, 2, 2, -2, 2, 1, 2, 2, 2, -1, 1, 2, 1, 2, 2, 2, 2, 2, -1, -2, -1, -1, 2, -1, -1, 2, -2, -1, 1, -1, -2, 1, -2, -1, -1, -1, -1, -2, -1, 2, -2, -2, -1, 2, -1, 1, 2, 1, -1, -2, -2, 1, -1, -2, 2, -1, 1, -1, 2, -2, 1, -1, -1, 1, 1, 1, -1, 2, 2, 2, -2, 2, -1, 1, -1, -1, 1, 1, -1, 1, -2, -1, -2, -2, -2, 2, 2, -1, -2, 2, -2, -1, -1, 2, 2, -1, 1, -1, 1, -2, -2, -2, -2, 1, -1, 2, 1, -1, 1, 2, -1, -1, 1, 2, 2, 2, -1, 1, -1, 2, 2, -2, -1, -2, 1, -2, 1, -1, -1, 2, -2, -2, 2, 1, -2, -2, -2, 1, -1, 1, -1, -1]"
+4,"Protein: 180
+Sequence: HPPPPHPHPPPHPHPPHPHHPPPHPPPPHPPPPHHPHHHPPPPPPHHHHPPPPPPPPPHPPPHPPHHPPPHPHPHPHPPPPHHPPHPPPPPPHHPPPHHHHPHPPHHHPPHPPHHHPPPHPHHHHHHPPPPPHHPPPPHPHHPHHHPHPHPPPHHPHHPHPHPPPHHHPPPHPHHPHHHH
+Folds: [-2, 1, -2, -1, 2, -2, -1, 1, 2, 1, -2, 2, 2, 1, 2, 1, -1, -1, -2, 2, 2, 1, -1, 2, -1, 2, 1, -2, -2, -1, -1, -2, 1, 1, 2, -2, -2, 2, -2, 1, 1, -2, 1, 2, 1, 1, 1, -2, -2, -1, -1, 2, -1, -1, 1, 1, -2, -1, -2, 1, -1, 2, 1, -1, -1, 2, 2, -1, 2, 1, -1, 2, -2, -2, 1, 2, -2, 1, -2, 1, -1, 2, 2, -1, 2, -2, -1, -2, -1, -2, 2, -1, -2, -2, 1, -1, 1, -1, 2, 1, 2, -2, -2, -2, 1, -1, -2, 1, -2, -2, -1, 2, -2, 2, 1, -1, -2, -1, 2, -1, -2, -1, 2, -2, 1, -2, 2, -2, -1, -2, -1, -1, 2, -1, -1, 1, -2, -1, -1, 1, 2, -1, 1, 1, -1, 1, 1, 2, -2, -1, -2, 2, -1, 1, -1, 1, 1, -1, -2, 2, 1, 1, 2, -1, -2, 2, 1, 1, -1, -1, 1, -2, -1, 2, 1, -2, -2, 1, -2]"
+0,"Protein: 200
+Sequence: HHHPHHPPPPPPPPPHHPHHHPPHPPPPPPHPHHPHHHPPHPHHPHHPPPHPPPPHPHPPPPHPHPHPHPPHHHPPHPHHHPPHPHPPPPHPHHPPPPPPHPPHPPHPHPPHHPHHHPPPPHPHHHPPPHPHPPPPHHPHHPPPHHPHPHHHPPPHPPHHPPPHPPHPPPHHHPHPPPPHPPPHHPPPHHPHHHPPHPHH
+Folds: [1, 1, -2, 2, -2, -1, -2, 1, -1, 2, -1, -2, 2, 2, -1, -2, 1, 2, -2, -2, 1, -1, 1, 2, -1, -2, 2, -1, 1, 1, -1, -1, -1, 1, 2, 1, 2, 2, -2, -2, -1, -2, 1, 2, 2, 2, -2, -2, -1, 1, 1, -2, -1, -2, -1, 1, -2, 1, -1, -1, 1, -2, 1, 1, -1, 2, 2, -1, 1, 2, 2, 2, -2, 2, 1, -2, 1, -1, 1, 1, -2, -2, 2, 2, -2, -1, 1, 2, 2, 1, -2, -2, 1, -1, -2, -1, 2, 2, 2, 2, 2, -2, 1, -1, -1, -2, 2, -2, -1, 2, 1, 2, -1, -2, -2, -2, 2, 1, -1, 1, -2, -2, -1, -2, -1, 2, -2, 1, 2, -2, 1, 2, -1, 1, 2, 1, -1, -1, -2, -2, 1, 1, 1, 2, -2, -1, 1, -2, -2, -1, -2, 2, 2, 2, -1, 2, -1, 1, -1, 2, -2, 2, 2, 1, 2, 2, -2, -1, -1, 2, 1, 1, -1, 1, -1, 2, 2, 1, 1, 2, 2, -2, 2, 1, -2, 1, 2, -2, 1, 2, 2, 2, 1, -2, -2, 2, -1, -1, 1]"
+1,"Protein: 200
+Sequence: PPPPPPHHHPPPHHPHHHPHHHHPHHHPHPHPHPPHPHPHHPPPHHHHHHHPPPPHHHHPPPPHHPPHHPPPPPPPHPPPPHPPPHHPHPPPPHPHHHHPPHPPPPHPPHPPPPPPHHHHHHPPHHHPHHHPHPHPHPHHHPPHHPPHPPHPPHHPHPHHHPPHPHHHHPHPPHPPHHHPPHHHPPPPPPPHHHHPPPPP
+Folds: [2, -2, -1, -1, 2, 1, 1, 1, 1, 2, 1, 1, 2, -2, -2, 2, 1, 2, -2, 1, -2, 1, 2, 1, -2, -1, 1, 1, 1, -2, 1, 2, 2, 2, -1, 1, 1, 1, 2, 2, -2, -1, 2, 2, -2, -2, 1, 2, 2, -2, 1, 1, 2, 2, -2, -1, 2, 2, -1, -2, 1, -2, 2, 2, -2, -1, 1, -2, -1, -1, 1, 2, 1, 2, 1, 1, 2, -2, -1, -1, -2, 2, -1, 2, -2, -1, 1, -1, 2, -1, -1, 1, -2, -2, -1, 1, 2, 1, 2, -1, -2, 2, -1, 2, 2, -2, 2, 2, -1, 1, -2, 1, 1, 2, -1, 1, -1, -2, -1, -1, 1, -1, -1, -2, -1, -2, -1, -2, -2, -1, -1, -1, -1, -2, -1, -1, 1, -1, -2, 2, 2, -1, 1, 2, -1, -1, 2, 2, -2, -2, 2, -1, -2, -2, -1, -2, -2, -1, -2, -2, 1, -2, 1, -1, 2, -1, -2, 2, 1, -2, -2, 1, -1, 2, -1, -2, 2, -2, 1, 2, -2, -2, -2, 2, -2, -1, -2, 1, 1, 2, -2, -2, 2, -1, -1, -2, 2, 1, 2]"
+2,"Protein: 200
+Sequence: HHPHPPHHPPHHPHHPHPPHPPPHPPPHHPPHPHHHHPHPHPHPHPPHHPPPPHPPPPPPPHPHPPPPHHHHHHPHHPHPPPPPPHPPHHHHHHPHHHHPPHPPPHHHHHHHHHHPHHPHPPPPHPPHPHHPHHHHHHHPHPHPPPHPPHHHHPHPHPPHHPHPPPHHPHPPHHHPPPHPHHHPPPPPPPPPHHHHPPHH
+Folds: [-1, 2, 2, 1, -2, -2, 1, 1, -2, 1, 2, -2, -2, -2, -2, 2, 1, -2, 1, 1, -1, 1, 2, -2, -1, -1, -1, 1, -1, 1, 2, -1, -1, 1, 2, 2, -2, -2, 1, -1, -1, -2, -2, -1, 2, -1, 1, -1, 1, 2, -1, 1, -1, -1, 1, -2, -2, 1, -1, -1, -2, -2, 1, -1, -1, -2, 1, -1, -1, -2, 2, 2, -1, -1, 1, -2, -1, 1, -2, 1, -1, 1, -2, 2, 1, -2, 1, 2, 1, -1, 1, 1, -2, 2, -1, -2, 2, 1, -1, -1, -1, -1, 2, -1, -1, -1, -1, -2, 1, 2, -1, -2, -2, -2, -2, -1, -1, 2, 1, -2, -2, 1, -2, -1, 1, -2, 1, -1, -2, 1, 2, -1, 1, -2, 2, -2, 1, -1, -2, -2, -2, -1, -2, 2, 1, -2, -1, -2, 1, -1, -1, -1, 1, -2, -2, 2, 1, -2, 2, -1, 1, -1, 2, -2, 1, -2, 1, -1, -2, 1, -2, -2, 2, 1, -2, 2, 2, 2, -2, 2, -1, -2, -1, -2, -2, -2, 1, 2, -1, 1, 2, 2, -1, 2, -2, 1, -1, -1, -2]"
+3,"Protein: 200
+Sequence: PHPHHHHPHHPHHHHPPPHHHHHHPHHPHPPHHPPHPPHPHHHPHHHPHPPHPPPHHPPPHPPHHHPPPHPHHPPPHHHHPHHHPHHPHHPHHPPPHPHPHPHHPPHHHPHHHPPHHPPPHPPPPPHHHHHHHPHPHPPHPPHHHPPPPPPPHHHPHHPHPHHPPHPHHPPHHPHPHHHPHPPHPPPHPPPPHPPHPHPH
+Folds: [-2, 1, 2, -2, -1, -1, -2, -1, -2, 1, -1, 2, 1, -2, -1, -2, 2, -1, 1, 1, 1, -2, -2, -1, 2, 2, 1, -2, -2, 2, 2, -1, -2, -1, -1, -2, 2, -1, -2, -1, 1, -2, -1, -2, 1, 2, -1, 2, 1, -1, 1, -1, -2, -1, -2, -2, -1, -2, 2, 1, -1, -1, 1, 2, 2, 1, -2, 1, -1, 1, -1, -2, 2, -2, -2, 1, -2, -2, 2, 1, 1, 1, 2, 2, -1, 1, 1, 2, -1, 2, -1, 1, 2, -1, 1, -2, -2, 2, -1, -1, -1, 2, -2, 1, -1, 1, -2, -2, 2, 2, 1, 2, 1, 2, -1, 1, 2, 2, -2, -1, -1, -2, -2, -1, -1, -2, -2, -2, -1, -2, 2, -1, 2, -1, -1, 2, -2, 1, -2, 2, 2, -1, 2, 1, -1, 2, 2, -1, -2, -2, -2, -2, -1, -2, 1, 2, 2, 2, 2, -2, 1, -2, -2, 2, -1, 1, -2, 1, 1, -1, 2, 2, 1, 2, -2, 2, 1, -2, 1, -1, -2, -1, -2, 2, -1, 1, 1, 1, 1, 2, 1, 1, 1, -1, 2, 2, 2, 2, -1]"
+4,"Protein: 200
+Sequence: PHPHPHPHHHHPHHPHHPHPHPHHHPPHPHHPHPPPHHPHPPPPPHPHHPPHPPHHHPPHPHHPHHHPPHPHPPHPHHPPPHHPHPPHHHHHPHHPPPPHHHHHPPHPPHPHHHHHHHHHPPHHHPPHPHPHHPPPPPPHHHHHPPHHPHHHHHHPHHPHHPPHHPPPHHPHPHHPHPPHPHPHHPPPPHPHPPPPPHHH
+Folds: [-1, -1, -1, 1, -1, -1, -1, 1, -2, -1, -1, 2, -1, 1, 1, 2, -1, 1, -2, -2, -2, 2, -1, 1, 2, 2, -2, -1, -1, -1, 2, 2, -1, -2, 2, 2, 2, 2, 1, 2, -1, 2, -1, -2, 2, 2, -1, 2, 2, 1, -1, -1, 1, -2, 1, 2, -1, 2, -2, 1, -2, 2, 1, 1, -1, -1, 1, 2, -1, -1, -2, 1, -2, -2, 1, 2, -2, 2, 2, 1, -2, 2, -2, -1, 1, -1, 2, -2, -2, -2, 1, -2, -2, -1, 2, 2, 1, -2, 2, -2, -2, -2, 2, 2, -2, 2, 1, 1, 1, 1, -1, -2, -2, 1, -1, 1, -1, -1, 2, -1, -1, -1, 1, 1, 2, 2, 1, 2, 1, 1, -2, -1, 1, 2, 2, 1, 2, 2, -1, -2, 2, -2, 2, -1, 2, -1, -2, 2, -1, 1, -2, -2, -2, -1, -1, 1, 2, 1, -2, -1, 2, -1, 2, 2, 1, -2, -1, 1, 2, -2, 2, -1, 2, 2, 1, -2, -2, -1, 2, -2, 2, 2, -2, -1, 1, -1, -2, 2, -2, 2, -1, 1, 2, -2, -2, 1, -2, -1, -2]"
