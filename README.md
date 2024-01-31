@@ -1,7 +1,7 @@
-#Folding Frequency
-##Using frequency fitness assignment in protein folding
+# Folding Frequency 
+## Using frequency fitness assignment in protein folding
 
-Jonathan Koutstaal
+*Jonathan Koutstaal*
 
 Abstract:
 Understanding the way proteins fold is vital to gaining insights into the deceases they cause. In this paper, the effectiveness of a novel method, frequency fitness assignment, in combination with a hill climber algorithm (HC-FFA) is compared to a traditional hill climber (HC) in folding proteins. Frequency fitness assignment changes the fitness function on the hill climber instead of using the objective value to accept a mutation the times an objective value has appeared is used, in which less is better. This comes forth from the idea that good solutions are uncommon. Three experiments were conducted focused on one or both the objective values, the number of bonds and the number of collisions, consisting of proteins with different lengths. The experiments showed there is merit to using the frequency fitness assignment, it overcomes the weakness of a hill climber, local optima, leading to it outperforming the HC in small problem instances in certain metrics. In bigger problem instances the speed at which the HC-FFA is converging makes it unable to overtake the HC. In the multi-objective experiment, the HC-FFA proved to be better at finding the edges of the solution space but was due to the bigger solution space increasingly hampered by the problem instance. In future work, the threshold of protein size and iterations at which the HC will outperform the HC-FFA could be studied.
